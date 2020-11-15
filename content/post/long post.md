@@ -1,6 +1,8 @@
 ---
 title: test number two
 authors: ["Rae Anne Martinez", "Paul Zivich"]
+share: true
+reading_time: true
 ---
 
 

@@ -36,9 +36,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:natsmith@live.unc.edu  # For a direct email link, use "mailto:test@example.org".
- - icon: orcid
-  icon_pack: ai
-  link: https://orcid.org/0000-0002-2052-9433
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/TheRealNatSmith
@@ -66,6 +63,7 @@ highlight_name: false
 user_groups:
 - Researchers
 - Visitors
+
 ---
 
 Natalie is this person and here is where we would add more about each of ourselves...

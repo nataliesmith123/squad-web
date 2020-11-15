@@ -35,7 +35,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:natsmith@live.unc.edu  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:natsmith@live.unc.edu"  # For a direct email link, use "mailto:test@example.org".
  - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0002-2052-9433

@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Paul Zivich
+title: Rae Anne Martinez
 
 # Is this the primary user of the site?
 superuser: false
@@ -21,12 +21,12 @@ education:
   - course: PhD in Epidemiology
     institution: UNC Chapel Hill
     year: Current
-  - course: MPH in Epidemiology
-    institution: THE Ohio State University
+  - course: MSPH in Epidemiology
+    institution: UNC Chapel Hill
     year: 201?
-  - course: BS in 
-    institution: THE Ohio State University
-    year: 201X?
+  - course: BS in Molecular and Cell Biology & BA in Sociology
+    institution: University of Arizona
+    year: 2014
     
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -35,16 +35,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:pzivich@live.unc.edu  # For a direct email link, use "mailto:test@example.org".
+  link: mailto:raeannem@live.unc.edu  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/PausalZ
+  link: https://twitter.com/_RAMMartinez
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=hbU-gZ0AAAAJ&hl=en
-- icon: github
-  icon_pack: fab
-  link: https://github.com/pzivich
+  link: https://scholar.google.com/citations?user=aDPDcrEAAAAJ&hl=en
   
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

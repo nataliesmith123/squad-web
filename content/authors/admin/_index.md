@@ -39,9 +39,6 @@ highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
 ---
 
 We are a collaborative team of PhD students from epidemiology, sociology, anthropology, and health policy who train together at the Carolina Population Center.Back in 2017 (??) we started working on a project together and it has grown since then... here is our webiste and you can hear more about each of us on the People tab (link to that here). 

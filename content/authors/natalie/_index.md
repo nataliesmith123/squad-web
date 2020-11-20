@@ -38,7 +38,7 @@ social:
   link: mailto:natsmith@live.unc.edu  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/TheRealNatSmith
+  link: https://twitter.com/_NatRSmith
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=pP7qJZ8AAAAJ&hl=en

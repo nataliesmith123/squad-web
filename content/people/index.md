@@ -1,4 +1,4 @@
 ---
-title: "People page"
+title: "People"
 type: "widget_page"
 ---

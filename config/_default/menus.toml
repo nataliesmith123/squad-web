@@ -22,6 +22,11 @@
   name = "Resources"
   url = "resources/"
   weight = 40
+  
+ [[main]]
+  name = "Funding"
+  url = "funding/"
+  weight = 50
 
 [[main]]
   name = "Contact"

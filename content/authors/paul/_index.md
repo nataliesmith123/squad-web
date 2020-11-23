@@ -11,7 +11,7 @@ role: PhD Candidate in Epidemiology
 # Organizations/Affiliations
 organizations:
 - name: UNC Chapel Hill
-  url: ""
+  url: "https://pzivich.github.io/"
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -22,11 +22,11 @@ education:
     institution: UNC Chapel Hill
     year: Current
   - course: MPH in Epidemiology
-    institution: THE Ohio State University
-    year: 201?
-  - course: BS in 
-    institution: THE Ohio State University
-    year: 201X?
+    institution: The Ohio State University
+    year: 2016
+  - course: BSPH 
+    institution: The Ohio State University
+    year: 2015
     
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -35,7 +35,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:pzivich@live.unc.edu  # For a direct email link, use "mailto:test@example.org".
+  link: mailto:pzivich@live.unc.edu
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/PausalZ
@@ -65,4 +65,4 @@ user_groups:
 
 ---
 
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+Paul Zivich is a doctoral candidate in epidemiology at University of North Carolina at Chapel Hill, with an MPH in epidemiology from The Ohio State University. He is interested in causal inference with potential outcomes, particularly in the context of networks and contagious outcomes (e.g. infectious diseases, etc.). His work ranges from assessing the performance of causal inference estimators through simulations - to collection of contact network data with electronic sensors - to application of causal inference in the context of infectious disease and social epidemiology. He is also the author of the zEpid Python library, a free-software library for epidemiologic analyses and quantitative causal inference.

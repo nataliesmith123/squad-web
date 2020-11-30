@@ -23,8 +23,11 @@ education:
     year: Current
   - course: MSPH in Epidemiology
     institution: UNC Chapel Hill
-    year: 201?
-  - course: BS in Molecular and Cell Biology & BA in Sociology
+    year: 2019
+  - course: BS in Molecular and Cell Biology 
+    institution: University of Arizona
+    year: 2014
+  - course: BA in Sociology
     institution: University of Arizona
     year: 2014
     
@@ -62,4 +65,6 @@ user_groups:
 
 ---
 
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+Rae Anne Martinez is currently an Epidemiology PhD student at the University of North Carolina – Chapel Hill. Martinez is broadly interested in how the built environment and social interactions are embodied through biological processes and how this embodiment impacts health across the life course. Specifically, her dissertation research focuses on the embodiment of childhood adversity via the accumulation of epigenetic alternations and links to depression and anxiety in adulthood. She is also interested in exploring historical and contemporary conceptualizations of race and ethnicity in health scholarship and the relationship of these social constructs to health. Her work is currently supported by the Biosocial NIH T32 Training Program at the Carolina Population Center, which emphasizes interdisciplinary training and collaboration in order to foster unique, innovative approaches to public health.
+
+Martinez was a Flinn Foundation Scholar at the University of Arizona, where she received her B.S. in Molecular and Cellular Biology and a B.A. in Sociology in 2014. Prior to beginning her graduate studies at UNC Chapel Hill, Martinez worked as a Research Associate at the Translational Genomics Research Institute (TGen) in Phoenix, Arizona. At TGen, she studied the roles of epigenetic modifiers in the etiology of breast cancer metastasis. Martinez received her MSPH from UNC Chapel Hill in 2019.

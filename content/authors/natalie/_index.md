@@ -42,6 +42,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=pP7qJZ8AAAAJ&hl=en
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-2052-9433
 - icon: github
   icon_pack: fab
   link: https://github.com/nataliesmith123
@@ -65,4 +68,8 @@ user_groups:
 
 ---
 
-Natalie is this person and here is where we would add more about each of ourselves...
+Natalie Smith is a PhD candidate in Health Policy and Management at the UNC Chapel Hill. Natalie works to promote the implementation of strong, evidence-informed policies to improve population health. To do this, she pursues research geared towards (1) simulating the comparative health and economic effects of public health policies, and (2) improving how researchers disseminate findings to policymakers. Her dissertation work focuses on each of these areas of research, with a specific focus on policies to decrease sugary drink consumption.
+  
+Natalie’s work has been supported by a T32 Biosocial Training Program at the Carolina Population Center for the past three years. Prior to beginning her doctoral studies, she earned her master’s in Biostatistics at UNC Chapel Hill in 2017 and bachelor's in Interdisciplinary Science from Purdue University in 2015.
+
+Her personal website is [here](https://www.nataliersmith.com/)

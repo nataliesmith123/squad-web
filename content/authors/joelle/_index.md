@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Name
+title: Joëlle Atere-Roberts
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD Candidate in Sociology
+role: PhD Student in Epidemiology
 
 # Organizations/Affiliations
 organizations:
@@ -18,14 +18,14 @@ organizations:
 
 education:
   courses:
-  - course: PhD in Sociology
+  - course: PhD in Epidemiology
     institution: UNC Chapel Hill
     year: Current
-  - course: MA in Sociology
-    institution: UNC Chapel Hill
-    year: 2020
-  - course: BA in Sociology 
-    institution: Claremont McKenna College ? 
+  - course: MPH in Epidemiology
+    institution: Georgia State University
+    year: 2014
+  - course: BS in Biology
+    institution: Agnes Scott College
     year: 2014
     
 # Social/Academic Networking
@@ -35,13 +35,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:nandrabi@live.unc.edu  # For a direct email link, use "mailto:test@example.org".
+  link: mailto:joellear@unc,edu  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/nafeesaaaaa
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=bCoWh9EAAAAJ
+  link: https://twitter.com/JoelleARoberts
+#- icon: google-scholar
+#  icon_pack: ai
+#  link: https://scholar.google.com/citations?user=bCoWh9EAAAAJ
   
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -62,4 +62,4 @@ user_groups:
 
 ---
 
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+Joëlle Atere-Roberts a PhD student in social epidemiology at the University of North Carolina-Chapel Hill.  She holds a B.S in Biology from Agnes Scott College and an MPH from Georgia State University. Before beginning her doctoral program, Joelle worked at the Centers for Disease Control and Prevention where she focused on initiatives to address health disparities in cancer prevention and control. Her current research interests have health equity at its core and aims to understand how social factors underpin racial and ethnic differences in disease outcomes. Joëlle is interested in investigating the social and structural factors such as racial discrimination and neighborhood environments impact women’s reproductive and gynecologic health. Her research is currently supported by the Biosocial NIH T32 Training Program at the Carolina Population Center.

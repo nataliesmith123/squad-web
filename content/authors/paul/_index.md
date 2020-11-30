@@ -42,6 +42,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=hbU-gZ0AAAAJ&hl=en
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-9932-1095
 - icon: github
   icon_pack: fab
   link: https://github.com/pzivich

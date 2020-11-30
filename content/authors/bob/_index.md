@@ -6,7 +6,7 @@ title: Bob Hummer
 superuser: false
 
 # Role/position
-role: Professor
+role: Professor of Sociology
 
 # Organizations/Affiliations
 organizations:

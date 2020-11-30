@@ -16,7 +16,12 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-    
+education:
+  courses:
+  - course: PhD in Sociology
+    institution: Florida State University
+    year: 1993
+
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -42,7 +47,6 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Faculty Advisors
-
 ---
 
 Robert A. Hummer's research program is focused on the accurate description and more complete understanding of population health patterns and trends in the United States. He is currently Co-Director, with Kathleen Mullan Harris, of the long-running National Longitudinal Study of Adolescent to Adult Health (Add Health), a nationally-representative longitudinal study of over 20,000 American adults who are now around 40 years old and have been followed since they were adolescents. Dr. Hummer is particularly interested in understanding how and why the physical, mental, and cognitive health of individuals in the Add Health study differs across racial/ethnic, gender, and socioeconomic subgroups of the population. Read more [here](https://www.cpc.unc.edu/people/fellows/robert-hummer/). 

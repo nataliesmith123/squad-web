@@ -45,9 +45,9 @@ social:
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0002-2052-9433
-- icon: github
-  icon_pack: fab
-  link: https://github.com/nataliesmith123
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/nataliesmith123
   
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -72,4 +72,4 @@ Natalie Smith is a PhD candidate in Health Policy and Management at the UNC Chap
   
 Natalie’s work has been supported by a T32 Biosocial Training Program at the Carolina Population Center for the past three years. Prior to beginning her doctoral studies, she earned her master’s in Biostatistics at UNC Chapel Hill in 2017 and bachelor's in Interdisciplinary Science from Purdue University in 2015.
 
-Her personal website is [here](https://www.nataliersmith.com/)
+Her personal website is [here](https://www.nataliersmith.com/).

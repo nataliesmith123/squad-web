@@ -1,6 +1,12 @@
 ---
 title: Recent & Upcoming Talks
 
+content: 
+  page_type: talk
+  count: 0
+  offset: 0
+  order: desc
+
 # View.
 #   1 = List
 #   2 = Compact

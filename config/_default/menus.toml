@@ -9,8 +9,8 @@
   weight = 10
 
 [[main]]
-  name = "Better name than posts"
-  url = "post/"
+  name = "Talks"
+  url = "talk/"
   weight = 20
   
 [[main]] 

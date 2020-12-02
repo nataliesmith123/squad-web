@@ -1,11 +1,11 @@
 +++
 # Accomplishments widget.
 widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
+headless = false  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 0  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = ""
 subtitle = ""
 
 # Date format
@@ -20,18 +20,21 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "Society for Epidemiology Research Annual meeting"
+  title = ""
   date_start = "2020-12-03"
   date_end = "2020-12-03"
   description = ""
 
 [[item]]
   organization = "Interdisciplinary Association for Population Health Sciences"
+  title = ""
   date_start = "2020-10-01"
   date_end = "2020-10-01"
   description = ""
   
 [[item]]
   organization = "Environmental and Occupational Health Seminar"
+  title = ""
   date_start = "2020-09-25"
   date_end = "2020-09-25"
   description = ""

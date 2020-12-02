@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Name
+title: Kate LeMasters
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD Candidate in Sociology
+role: PhD Student in Epidemiology
 
 # Organizations/Affiliations
 organizations:
@@ -18,15 +18,9 @@ organizations:
 
 education:
   courses:
-  - course: PhD in Sociology
+  - course: PhD in Epidemiology
     institution: UNC Chapel Hill
     year: Current
-  - course: MA in Sociology
-    institution: UNC Chapel Hill
-    year: 2020
-  - course: BA in Sociology 
-    institution: Claremont McKenna College ? 
-    year: 2014
     
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -35,13 +29,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:nandrabi@live.unc.edu  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/nafeesaaaaa
+  link: mailto:Katherine.lemasters@unc.edu  # For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=bCoWh9EAAAAJ
+  link: https://scholar.google.com/citations?hl=en&user=M8u0KC8AAAAJ&view_op=list_works&gmla=AJsN-F4WL-krKGOWgZup-ZoEzJRGHOXGQKHG0iC3fl99of6mlpu-Cg5NyJlWZ7Fj0NomTt0QCKBItBUpChJWZfkdFa4YlpL2HMNTiGEBAHKgZtECcMQd18w
   
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -62,4 +53,4 @@ user_groups:
 
 ---
 
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+Kate works at the intersection of social epidemiology and health equity with a focus on social and structural determinants of health. My research focuses on mass incarceration in the United States, perinatal mental health in global settings, and HIV prevention and maternal well-being in North Carolina.

@@ -21,10 +21,13 @@ education:
   - course: PhD in Anthropology
     institution: UNC Chapel Hill
     year: Current
-  - course: MPH in ??
+  - course: MPH in Health Behavior and Health Education
     institution: UNC Chapel Hill
     year: 2015
-  - course: BS in ??
+  - course: BS in Public Health
+    institution: University of Washington
+    year: 2011
+  - course: BA in Medical Anthropology and Global Health
     institution: University of Washington
     year: 2011
     
@@ -65,4 +68,4 @@ user_groups:
 
 ---
 
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+Rachel is a fifth-year doctoral candidate in Human Biology. Her research examines the impact of social determinants of health, historical and intergenerational trauma and resilience on contemporary health for Native American and Alaska Native peoples. Her dissertation research seeks to elucidate and document the pathways through which a family history of Federal Indian Boarding School attendance may continue to impact the physical health and wellbeing of future generations, as well as the ways in which engagement in cultural revitalization activities may mitigate the impacts of historical trauma. 

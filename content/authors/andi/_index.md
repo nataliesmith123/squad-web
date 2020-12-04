@@ -24,7 +24,13 @@ education:
   - course: MA in Sociology
     institution: UNC Chapel Hill
     year: 2020
-  - course: BS Sports Management
+  - course: MA in Sociology
+    institution: Morgan State University
+    year: 2011
+  - course: MS in Exercise and Sport Sciences
+    institution: University of Florida
+    year: 2003
+  - course: BS Exercise and Sport Sciences
     institution: University of Florida
     year: 2001
     
@@ -65,4 +71,6 @@ user_groups:
 
 ---
 
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+Andrea “Andi” Goodwin is a PhD candidate in Sociology at the University of North Carolina at Chapel Hill. Andi works to identify the association between social stratification and health disparities across the life course. More specifically, she is interested in the relationship between race/ethnicity, socioeconomic status, and gender and caregiving in the US context. 
+
+Andi’s work has been supported by a T32 Biosocial Training Program at the Carolina Population Center for the past three years. Prior to beginning her doctoral studies, she earned a Master of Arts in Sociology at Morgan State University in 2011, as well as a Bachelor of Science and Master of Science in Exercise and Sport Sciences from the University of Florida in 2001 and 2003, respectively. 

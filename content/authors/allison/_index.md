@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Bob Hummer
+title: Allison Aiello
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Professor of Sociology
+role: Professor of Epidemiology
 
 # Organizations/Affiliations
 organizations:
@@ -17,9 +17,9 @@ organizations:
 
 education:
   courses:
-  - course: PhD in Sociology
-    institution: Florida State University
-    year: 1993
+  - course: PhD in Epidemiology
+    institution: Columbia University
+    year: 2003
     
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -28,7 +28,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:rhummer@email.unc.edu  # For a direct email link, use "mailto:test@example.org".
+  link: mailto:aaiello@unc.edu  # For a direct email link, use "mailto:test@example.org".
 # - icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/PausalZ
@@ -58,4 +58,4 @@ user_groups:
 
 ---
 
-Robert A. Hummer is the Howard W. Odum Distinguished Professor of Sociology and a Carolina Population Center fellow. His research program is focused on the accurate description and more complete understanding of population health patterns and trends in the United States. He is currently Co-Director, with Kathleen Mullan Harris, of the long-running National Longitudinal Study of Adolescent to Adult Health (Add Health), a nationally-representative longitudinal study of over 20,000 American adults who are now around 40 years old and have been followed since they were adolescents. Dr. Hummer is particularly interested in understanding how and why the physical, mental, and cognitive health of individuals in the Add Health study differs across racial/ethnic, gender, and socioeconomic subgroups of the population. Read more [here](https://www.cpc.unc.edu/people/fellows/robert-hummer/).
+Allison Aiello is a Professor of Sociology and a Carolina Population Center fellow. Dr. Aiello's research seeks to integrate social and biological data across the life course, including epigenetic approaches, to identify the key triggers of population variation in susceptibility to dementia, poor mental health, cardiometabolic, and immune/infectious disease outcomes. Her overall research goal is to elucidate whether stress-related biological imprinting, through immune and epigenetic mechanisms, explain how health inequities from these conditions arise and produce disease risk across the life span. Read more [here](https://www.cpc.unc.edu/people/fellows/allison-aiello/).

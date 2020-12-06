@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Name
+title: Denise Mitchell
 
 # Is this the primary user of the site?
 superuser: false
@@ -21,12 +21,9 @@ education:
   - course: PhD in Sociology
     institution: UNC Chapel Hill
     year: Current
-  - course: MA in Sociology
-    institution: UNC Chapel Hill
-    year: 2020
-  - course: BA in Sociology 
-    institution: Claremont McKenna College ? 
-    year: 2014
+  - course: BA in Psychology 
+    institution: UNC CHapel Hill
+    year: 2012
     
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -35,13 +32,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:nandrabi@live.unc.edu  # For a direct email link, use "mailto:test@example.org".
+  link: mailto:dnmitche@live.unc.edu  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/nafeesaaaaa
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=bCoWh9EAAAAJ
+  link: https://twitter.com/dn_mitchell
   
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -62,4 +56,4 @@ user_groups:
 
 ---
 
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+Denise Mitchell is a PhD student in Sociology at the University of North Carolina at Chapel Hill. She holds a BA in Psychology from UNC-Chapel Hill. Before starting her doctoral work, Denise worked at the American Institutes for Research conducting interviews with consumers and clinicians on topics ranging from comparative effectiveness research to traumatic brain injury, and translating clinical research into plain language for broad audiences. Her current research aims to understand how social structures can “get under the skin” to impact physical health outcomes. Her masters thesis work examines how criminal justice system contact is associated with allostatic load in U.S. adults.

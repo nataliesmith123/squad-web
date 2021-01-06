@@ -21,11 +21,8 @@ education:
   - course: PhD in Sociology
     institution: UNC Chapel Hill
     year: Current
-  - course: MA in Sociology
-    institution: UNC Chapel Hill
-    year: 2020
   - course: BA in Sociology 
-    institution: Claremont McKenna College ? 
+    institution: Occidental College
     year: 2014
     
 # Social/Academic Networking
@@ -62,4 +59,4 @@ user_groups:
 
 ---
 
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+Nafeesa Andrabi (she/her) is currently a Sociology PhD student at UNC Chapel Hill. She integrates multidisciplinary theoretical and methodological approaches to understand health disparities and experiences of race and Muslimness in the US. First, she focuses on American Muslims and perceived Muslimness as a site for understanding how religion, immigration, colonization and language shape racial identity formation and the US racial order. Second, she examines the consequences of Muslimness and race on health across the life course, situating Muslim health outcomes within the discourse on health disparities more broadly. Lastly, she is interested in theorizing on the experiences of those who exist on the fringes of US racial categories. Nafeesa’s work has been supported by the Biosocial NIH T32 Training Program at the Carolina Population Center. She is also a recipient of the National Science Foundation Graduate Research Fellowship. Nafeesa graduated with Honors from Occidental College with a B.A. in Sociology in 2014.

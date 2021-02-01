@@ -1,42 +1,15 @@
-+++
-# Accomplishments widget.
-widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = false  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 0  # Order that this section will appear.
+---
+lastmod: ""
+---
 
-title = ""
-subtitle = ""
+### We've presented our work at a wide variety of conferences
 
-# Date format
-#   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "Jan 2006"
++ Martinez, R.A., Andrabi, N., Goodwin, A.N., Wilbur, R.E., Smith, N.R., Zivich, P.N., Aiello, A.E., Hummer, R.A. A systematic review of the use of race and ethnicity in U.S. medical and epidemiologic research. SER 53rd Annual Meeting. Virtual Event due to COVID-19. December 2020.
++ Martinez, R.A., Andrabi, N., Goodwin, A.N., Wilbur, R.E., Smith, N.R., Zivich, P.N., Aiello, A.E., Hummer, R.A. A cross-disciplinary, systematic review of race and ethnicity in U.S. population health research. IAPHS 6th Annual Meeting. Virtual Event due to COVID-19. October 2020.
++ Martinez, R.A., Andrabi, N., Goodwin, A.N., Wilbur, R.E., Smith, N.R., Zivich, P.N., Aiello, A.E., Hummer, R.A. A cross-disciplinary, systematic review of race and ethnicity in U.S. population health research. Environmental & Occupational Health Seminar. Gillings School of Global Public Health, University of North Carolina at Chapel Hill. October 2020.
++ Martinez, R.A., Andrabi, N., Goodwin, A.N., Wilbur, R.E., Smith, N.R., Zivich, P.N., Aiello, A.E., Hummer, R.A. A systematic review of the use of race and ethnicity in US medical research. 41st Annual Minority Health Conference. UNC Chapel Hill, Chapel Hill, NC. February 2020.
++ Martinez, R.A., Andrabi, N., Goodwin, A.N., Wilbur, R.E., Smith, N.R., Zivich, P.N., Aiello, A.E., Hummer, R.A. A systematic review of the use of race in population health medical research. Inaugural Thomas M. Carsey Graduate Student Symposium. UNC at Chapel Hill, Chapel Hill, NC. November 2019.
++ Martinez, R.A., Andrabi, N., Goodwin, A.N., Wilbur, R.E., Smith, N.R., Zivich, P.N., Aiello, A.E., Hummer, R.A. A systematic review of the use of race in population health medical research. IAPHS 5th Annual Meeting. The Sheraton Seattle Hotel Seattle, WA. October 2019.
++ Martinez, R.A., Andrabi, N., Goodwin, A.N., Wilbur, R.E., Smith, N.R., Zivich, P.N., Aiello, A.E., Hummer, R.A. A systematic review of the use of race in population health medical research. Social Epidemiology Seminar. Gillings School of Global Public Health, University of North Carolina at Chapel Hill. September 2019.
 
-# Accomplishments.
-#   Add/remove as many `[[item]]` blocks below as you like.
-#   `title`, `organization` and `date_start` are the required parameters.
-#   Leave other parameters empty if not required.
-#   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-[[item]]
-  organization = "Society for Epidemiology Research Annual meeting"
-  title = ""
-  date_start = "2020-12-03"
-  date_end = "2020-12-03"
-  description = ""
-
-[[item]]
-  organization = "Interdisciplinary Association for Population Health Sciences"
-  title = ""
-  date_start = "2020-10-01"
-  date_end = "2020-10-01"
-  description = ""
-  
-[[item]]
-  organization = "Environmental and Occupational Health Seminar"
-  title = ""
-  date_start = "2020-09-25"
-  date_end = "2020-09-25"
-  description = ""
-
-+++

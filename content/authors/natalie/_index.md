@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Natalie Smith
+title: Natalie Riva Smith
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD Candidate in Health Policy and Management
+role: Postdoctoral Research Fellow in Cancer Prevention
 
 # Organizations/Affiliations
 organizations:
-- name: UNC Chapel Hill
+- name: Harvard TH Chan School of Public Health
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -20,7 +20,7 @@ education:
   courses:
   - course: PhD in Health Policy and Management
     institution: UNC Chapel Hill
-    year: Current
+    year: 2021
   - course: MS in Biostatistics
     institution: UNC Chapel Hill
     year: 2017
@@ -68,8 +68,6 @@ user_groups:
 
 ---
 
-Natalie Smith is a PhD candidate in Health Policy and Management at the UNC Chapel Hill. Natalie works to promote the implementation of strong, evidence-informed policies to improve population health. To do this, she pursues research geared towards (1) simulating the comparative health and economic effects of public health policies, and (2) improving how researchers disseminate findings to policymakers. Her dissertation work focuses on each of these areas of research, with a specific focus on policies to decrease sugary drink consumption.
-  
-Natalie’s work has been supported by a T32 Biosocial Training Program at the Carolina Population Center for the past three years. Prior to beginning her doctoral studies, she earned her master’s in Biostatistics at UNC Chapel Hill in 2017 and bachelor's in Interdisciplinary Science from Purdue University in 2015.
+Natalie is a decision scientist who aims to prevent chronic disease through the uptake of evidence-informed programs and policies. To do this, her research program emphasizes applying a variety of decision science methods to implementation and dissemination related questions, including economic evaluation, simulation modeling, and stated preference methods. She is currently an NCI-funded T32 postdoctoral research fellow at the Harvard TH Chan School of Public Health. She received her MS in Biostatistics and PhD in Health Policy and Management (decision science concentration) from the University of North Carolina Chapel Hill Gillings School of Global Public Health. 
 
 Her personal website is [here](https://www.nataliersmith.com/).

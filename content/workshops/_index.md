@@ -4,7 +4,8 @@ lastmod: ""
 
 Our next virtual workshop offering will be on November 10, 2022 from 12-4pm ET! Register at: https://iaphs.org/tools-for-success/preconference-workshop-2/ 
 
-[flyer here]
+![IAPHS_2022_Workshop_Flyer](https://user-images.githubusercontent.com/11410550/192838179-3b04ae24-d3a9-40fb-9c66-588025390435.jpg)
+
 
 ### Background
 In 2021, we used the empirical evidence from our review to inform the development of interactive workshop for a range of audiences, which covers the theoretical considerations of race and ethnicity in health research, tools for communication, and highlights opportunities for improvement at the individual level. 

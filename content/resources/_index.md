@@ -4,9 +4,12 @@ lastmod: ""
 
 ### Our work and resources
 
-+ Beyond the Boxes: 6 part series on thoughtfully using race and ethnicity in population health research. Part [1 (intro)](https://iaphs.org/beyond-the-boxes-part-1-guiding-questions-for-thoughtfully-measuring-and-interpreting-race-in-population-health-research/), [2 (definitions)](https://iaphs.org/beyond-the-boxes-part-2-defining-race-and-ethnicity/), [3 (measurement)](https://iaphs.org/beyond-the-boxes-part-3-measuring-race-and-ethnicity-to-align-with-your-research/), [4 (coding)](https://iaphs.org/beyond-the-boxes-part-4-complications-in-coding-race-and-ethnicity/), [5 (analysis & interpretation)](https://iaphs.org/beyond-the-boxes-part-5-analysis-and-interpretation-of-race-and-ethnicity/), and [6 (conclusions)](https://iaphs.org/beyond-the-boxes-part-6-final-thoughts-and-gratitude-to-our-communities/).
-+ Race in Population Health Datasets [link](https://docs.google.com/spreadsheets/d/1yfsaCexYuQjtxuaPQXvsf7Jmm1YcIfAP2vigSJBM-Pw/edit?usp=sharing); please add datasets you use in your own work [here](https://docs.google.com/forms/d/e/1FAIpQLSd0NJpkXfUW8woOHHXuDhvU4d7KGCLr7929vKmgF-2WiRRF2Q/viewform)
++ Martinez, R.A., Andrabi, N., Goodwin, A.N., Wilbur, R.E., Smith, N.R., Zivich, P.N. (2022) Conceptualization, operationalization, and utilization of race and ethnicity in major epidemiology journals 1995-2018: a systematic review. Am J Epidemiol. Ahead of print. https://doi.org/10.1093/aje/kwac146
 
++ Martinez, R.A., Andrabi, N., Goodwin, A.N., Wilbur, R.E., Smith, N.R., Zivich, P.N. (2022) Conceptualization, operationalization, and utilization of race and ethnicity in major medical journals 1995-2018: a systematic review. Under review. Available as preprint from medRxiv. https://doi.org/10.1101/2022.03.07.22271661
+
++ Thoughtfully Measuring and Interpreting Race In Population Health Research. IAPHS Blog. 2021. https://doi.org/10.17615/bs67-jj32
+    + This was a 6 part series on thoughtfully using race and ethnicity in population health research. Part [1 (intro)](https://iaphs.org/beyond-the-boxes-part-1-guiding-questions-for-thoughtfully-measuring-and-interpreting-race-in-population-health-research/), [2 (definitions)](https://iaphs.org/beyond-the-boxes-part-2-defining-race-and-ethnicity/), [3 (measurement)](https://iaphs.org/beyond-the-boxes-part-3-measuring-race-and-ethnicity-to-align-with-your-research/), [4 (coding)](https://iaphs.org/beyond-the-boxes-part-4-complications-in-coding-race-and-ethnicity/), [5 (analysis & interpretation)](https://iaphs.org/beyond-the-boxes-part-5-analysis-and-interpretation-of-race-and-ethnicity/), and [6 (conclusions)](https://iaphs.org/beyond-the-boxes-part-6-final-thoughts-and-gratitude-to-our-communities/).
 
 ### Related readings
 
@@ -19,7 +22,6 @@ lastmod: ""
 + Boyd, R. W., Lindo, E. G., Weeks, L. D., & McLemore, M. R. (2020). On racism: a new standard for publishing on racial health inequities. Health Affairs Blog, 10. [link](https://www.healthaffairs.org/do/10.1377/hblog20200630.939347/full/)
 + Hardeman, R. R. (2020). Examining racism in health services research: A disciplinary self‐critique. Health Services Research, 55(Suppl 2), 777. [pubmed](https://pubmed.ncbi.nlm.nih.gov/32976632/)
 + Vyas, D. A., Eisenstein, L. G., & Jones, D. S. (2020). Hidden in plain sight—reconsidering the use of race correction in clinical algorithms. [pubmed](https://pubmed.ncbi.nlm.nih.gov/32853499/)
-
 
 
 ### Other things

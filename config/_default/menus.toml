@@ -6,32 +6,32 @@
 [[main]]
   name = "Home"
   url = "#about"
-  weight = 10
-
+  weight = 1
+  
 [[main]]
+  name = "Publications and Resources"
+  url = "resources/"
+  weight = 2
+  
+  [[main]]
   name = "Talks"
   url = "talk/"
-  weight = 20
-  
-[[main]] 
-  name = "People"
-  url = "people/"
-  weight = 30
-  
-[[main]]
-  name = "Resources"
-  url = "resources/"
-  weight = 40
+  weight = 3
   
  [[main]]
-  name = "Funding"
-  url = "funding/"
-  weight = 50
+  name = "Workshops"
+  url = "workshops/"
+  weight = 4
+  
+ [[main]] 
+  name = "People"
+  url = "people/"
+  weight = 5
 
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 60
+  weight = 6
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/media/cv.pdf` and uncomment the lines below.

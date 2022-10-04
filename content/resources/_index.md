@@ -10,7 +10,7 @@ lastmod: ""
 
 + Martinez, R.A., Andrabi, N., Goodwin, A.N., Wilbur, R.E., Smith, N.R., Zivich, P.N. (2022) Conceptualization, operationalization, and utilization of race and ethnicity in major medical journals 1995-2018: a systematic review. Under review. *Available as preprint from medRxiv.* https://doi.org/10.1101/2022.03.07.22271661
 
-+ Martinez, R.A., Andrabi, N., Goodwin, A.N., Wilbur, R.E., Smith, N.R., Zivich, P.N. (2021). Beyond the Boxes: Guiding Questions for Thoughtfully Measuring and Interpreting Race in Population Health Research. *IAPHS Blog.* https://doi.org/10.17615/bs67-jj32
++ Martinez, R.A., Smith, N.R., Andrabi, N., Goodwin, A.N., Wilbur, R.E., Zivich, P.N. (2021). Beyond the Boxes: Guiding Questions for Thoughtfully Measuring and Interpreting Race in Population Health Research. *IAPHS Blog.* https://doi.org/10.17615/bs67-jj32
     + This was a 6 part series on thoughtfully using race and ethnicity in population health research. Part [1 (intro)](https://iaphs.org/beyond-the-boxes-part-1-guiding-questions-for-thoughtfully-measuring-and-interpreting-race-in-population-health-research/), [2 (definitions)](https://iaphs.org/beyond-the-boxes-part-2-defining-race-and-ethnicity/), [3 (measurement)](https://iaphs.org/beyond-the-boxes-part-3-measuring-race-and-ethnicity-to-align-with-your-research/), [4 (coding)](https://iaphs.org/beyond-the-boxes-part-4-complications-in-coding-race-and-ethnicity/), [5 (analysis & interpretation)](https://iaphs.org/beyond-the-boxes-part-5-analysis-and-interpretation-of-race-and-ethnicity/), and [6 (conclusions)](https://iaphs.org/beyond-the-boxes-part-6-final-thoughts-and-gratitude-to-our-communities/).
 
 ### Related readings

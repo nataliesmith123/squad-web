@@ -6,7 +6,7 @@ title: Paul Zivich
 superuser: false
 
 # Role/position
-role: PhD Candidate in Epidemiology
+role: Postdoctoral Trainee
 
 # Organizations/Affiliations
 organizations:
@@ -20,7 +20,7 @@ education:
   courses:
   - course: PhD in Epidemiology
     institution: UNC Chapel Hill
-    year: Current
+    year: 2021
   - course: MPH in Epidemiology
     institution: The Ohio State University
     year: 2016
@@ -68,4 +68,7 @@ user_groups:
 
 ---
 
-Paul Zivich is a doctoral candidate in epidemiology at University of North Carolina at Chapel Hill, with an MPH in epidemiology from The Ohio State University. He is interested in causal inference with potential outcomes, particularly in the context of networks and contagious outcomes (e.g. infectious diseases, etc.). His work ranges from assessing the performance of causal inference estimators through simulations - to collection of contact network data with electronic sensors - to application of causal inference in the context of infectious disease and social epidemiology. He is also the author of the zEpid Python library, a free-software library for epidemiologic analyses and quantitative causal inference.
+Paul Zivich is a postdoctoral trainee at at University of North Carolina at Chapel Hill, with a PhD in epidemiology from University of North Carolina at Chapel Hill and an MPH in epidemiology from The Ohio State University. His interest is in causal inference with potential outcomes, particularly in the context of networks and contagious outcomes (e.g. infectious diseases, etc.). His work ranges from assessing the performance of causal inference estimators through simulations - to collection of contact network data with electronic sensors - to application of causal inference in the context of infectious disease and social epidemiology. He is also the author of the several free and open-source source Python libraries for quantitative data analysis.
+
+His personal website is [here](https://pzivich.github.io/). 
+

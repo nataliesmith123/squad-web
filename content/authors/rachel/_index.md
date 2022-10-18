@@ -6,11 +6,11 @@ title: Rachel Wilbur
 superuser: false
 
 # Role/position
-role: PhD Candidate in Anthropology
+role: Postdoctoral Fellow in Indigenous Community Well-being
 
 # Organizations/Affiliations
 organizations:
-- name: UNC Chapel Hill
+- name: Harvard Medical School
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -20,7 +20,7 @@ education:
   courses:
   - course: PhD in Anthropology
     institution: UNC Chapel Hill
-    year: Current
+    year: 2022
   - course: MPH in Health Behavior and Health Education
     institution: UNC Chapel Hill
     year: 2015
@@ -38,7 +38,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:rachel_wilbur@med.unc.edu  # For a direct email link, use "mailto:test@example.org".
+  link: mailto:rachel_wilbur@hms.harvard.edu  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/Flynn_Rachel_
@@ -68,4 +68,4 @@ user_groups:
 
 ---
 
-Rachel is a fifth-year doctoral candidate in Human Biology. Her research examines the impact of social determinants of health, historical and intergenerational trauma and resilience on contemporary health for Native American and Alaska Native peoples. Her dissertation research seeks to elucidate and document the pathways through which a family history of Federal Indian Boarding School attendance may continue to impact the physical health and wellbeing of future generations, as well as the ways in which engagement in cultural revitalization activities may mitigate the impacts of historical trauma. 
+Rachel Wilbur (descendant Tolowa, Chetco) is a human biologist whose work examines the impact of social determinants of health, historical and intergenerational trauma, and resilience on contemporary health for American Indian and Alaska Native peoples. She is particularly interested in using community-based participatory research methods to explore ways in which cultural revitalization may mitigate the health impacts of historical trauma events. She is currently a postdoctoral research fellow in Indigenous community well-being at Harvard Medical School, and is a Harvard University Native American Program scholar.

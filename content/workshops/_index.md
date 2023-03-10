@@ -21,5 +21,5 @@ Learning Objectives:
 + IAPHS Preconference Workshop for the 8th annual meeting, virtual, November 2022. 
 + Robert Wood Johnson Foundation: Healthy Eating Research Annual Grantee Meeting, virtual, April 2022. 
 + IAPHS Preconference Workshop for the 7th Annual Meeting, virtual, September 2021. 
-+ BCarolina Population Center, virtual, September 2021. 
++ Carolina Population Center, virtual, September 2021. 
 

@@ -6,11 +6,11 @@ title: Kate LeMasters
 superuser: false
 
 # Role/position
-role: PhD Student in Epidemiology
+role: PhD in Epidemiology
 
 # Organizations/Affiliations
 organizations:
-- name: UNC Chapel Hill
+- name: CU Anschutz
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -20,7 +20,7 @@ education:
   courses:
   - course: PhD in Epidemiology
     institution: UNC Chapel Hill
-    year: Current
+    year: 2023
     
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

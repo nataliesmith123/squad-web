@@ -8,7 +8,7 @@ Esposito, M. (Host). (2020, December 14). Measurement and Conceptualization in P
 
 
 ### We've presented our work at a wide variety of conferences and invited talks
-
++ Rae Anne Martinez (moderator) and Nafeesa Andrabi (speaker) will participate in Language and Rigor: A conversation on the role of language in epidemiology on April 23, 2023. https://epiresearch.org/serlibrary/serexperts/
 + Martinez, R.A., Andrabi, N., Goodwin, A.N., Wilbur, R.E., Smith, N.R., Zivich, P.N. A cross-disciplinary, systematic review of race and ethnicity in U.S. population health research. FMSC 6060: Ethnic Families and Health Disparities. Department of Family Science, University of Maryland. October 7th, 2021.
 + Martinez, R.A., Andrabi, N., Goodwin, A.N., Wilbur, R.E., Smith, N.R., Zivich, P.N. Lessons from interdisciplinary research. SOCI 823: Integrating Social and Biological Perspectives on Human Health. Department of Sociology, UNC Chapel Hill. September 28th, 2021.
 + Martinez, R.A., Andrabi, N., Goodwin, A.N., Wilbur, R.E., Smith, N.R., Zivich, P.N. A systematic review of the use of race and ethnicity in U.S. medical and epidemiologic research. SER 53rd Annual Meeting. Virtual Event due to COVID-19. December 2020. 

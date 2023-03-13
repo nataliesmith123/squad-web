@@ -6,7 +6,8 @@ lastmod: ""
 
 + Martinez, R.A., Smith, N.R., Wilbur, R.E., Andrabi, N., Goodwin, A.N., Zivich, P.N. (In press). Threats to equity: Missing methodological details about race and ethnicity in health research. *Health Affairs Forefront*
 
-+ Martinez, R.A., Andrabi, N., Goodwin, A.N., Wilbur, R.E., Smith, N.R., Zivich, P.N. (2022) Conceptualization, operationalization, and utilization of race and ethnicity in major epidemiology journals 1995-2018: a systematic review. *Am J Epidemiol.* Ahead of print. https://doi.org/10.1093/aje/kwac146
++ Martinez, R.A., Andrabi, N., Goodwin, A.N., Wilbur, R.E., Smith, N.R., Zivich, P.N. (2023) Conceptualization, operationalization, and utilization of race and ethnicity in major epidemiology journals 1995-2018: a systematic review. *American Journal of Epidemiology.* Volume 192, Issue 3, March 2023, Pages 483–496. https://doi.org/10.1093/aje/kwac146
+    + “How epidemiology researchers discuss race and ethnicity.” Carolina Population Center News. https://www.cpc.unc.edu/news/how-epidemiology- researchers-discuss-race-and-ethnicity/
 
 + Martinez, R.A., Andrabi, N., Goodwin, A.N., Wilbur, R.E., Smith, N.R., Zivich, P.N. (2022) Conceptualization, operationalization, and utilization of race and ethnicity in major medical journals 1995-2018: a systematic review. Under review. *Available as preprint from medRxiv.* https://doi.org/10.1101/2022.03.07.22271661
 

@@ -10,7 +10,7 @@ role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Washington State University
+- name: Institute for Research and Education to Advance Community Health, Elson S. Floyd College of Medicine, Washington State University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)

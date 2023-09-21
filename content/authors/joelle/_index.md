@@ -18,7 +18,7 @@ organizations:
 
 education:
   courses:
-  - course: PhD in Epidemiology
+  - course: PhD Candidate in Epidemiology
     institution: UNC Chapel Hill
     year: Current
   - course: MPH in Epidemiology
@@ -61,7 +61,5 @@ user_groups:
 - Volunteers
 
 ---
-
-Joëlle Atere-Roberts a PhD student in social epidemiology at the University of North Carolina-Chapel Hill.  She holds a B.S in Biology from Agnes Scott College and an MPH from Georgia State University. Before beginning her doctoral program, Joelle worked at the Centers for Disease Control and Prevention where she focused on initiatives to address health disparities in cancer prevention and control. Her current research interests have health equity at its core and aims to understand how social factors underpin racial and ethnic differences in disease outcomes. Joëlle is interested in investigating the social and structural factors such as racial discrimination and neighborhood environments impact women’s reproductive and gynecologic health. Her research is currently supported by the Biosocial NIH T32 Training Program at the Carolina Population Center.
 
 Her personal website can be found [here](https://sites.google.com/view/joelleatereroberts/home). 

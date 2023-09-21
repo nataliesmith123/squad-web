@@ -6,11 +6,11 @@ title: Rachel Wilbur
 superuser: false
 
 # Role/position
-role: Postdoctoral Fellow in Indigenous Community Well-being
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Harvard Medical School
+- name: Washington State University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -18,7 +18,7 @@ organizations:
 
 education:
   courses:
-  - course: PhD in Anthropology
+  - course: PhD in Biological Anthropology
     institution: UNC Chapel Hill
     year: 2022
   - course: MPH in Health Behavior and Health Education
@@ -36,9 +36,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: mailto:rachel_wilbur@hms.harvard.edu  # For a direct email link, use "mailto:test@example.org".
+# - icon: envelope
+ # icon_pack: fas
+ # link: mailto:rachel_wilbur@hms.harvard.edu  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/Flynn_Rachel_
@@ -68,4 +68,4 @@ user_groups:
 
 ---
 
-Rachel Wilbur (descendant Tolowa, Chetco) is a human biologist whose work examines the impact of social determinants of health, historical and intergenerational trauma, and resilience on contemporary health for American Indian and Alaska Native peoples. She is particularly interested in using community-based participatory research methods to explore ways in which cultural revitalization may mitigate the health impacts of historical trauma events. She is currently a postdoctoral research fellow in Indigenous community well-being at Harvard Medical School, and is a Harvard University Native American Program scholar.
+Rachel E. Wilbur, PhD, MPH, is an Assistant Professor with the Institute for Research and Education to Advance Community Health (IREACH) in the Elson S. Floyd College of Medicine at Washington State University. She is descendant Tolowa and Chetco and grew up in Northern California and Western Washington State. Her research focus is on the role of cultural engagement and revitalization in promoting wellbeing for American Indian and Alaska Native communities, and she is a particularly invested in community and strengths-based research. She received both her MPH in health behavior and her PhD in biological anthropology from the University of North Carolina at Chapel Hill before continuing her training as a postdoctoral fellow in Indigenous Community Wellbeing at Harvard Medical School, where she was also a scholar with the Harvard University Native American Program.

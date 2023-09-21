@@ -6,7 +6,7 @@ title: Natalie Riva Smith
 superuser: false
 
 # Role/position
-role: Postdoctoral Research Fellow in Cancer Prevention
+role: Research Associate
 
 # Organizations/Affiliations
 organizations:
@@ -35,7 +35,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:natsmith@live.unc.edu  # For a direct email link, use "mailto:test@example.org".
+  link: mailto:nataliesmith@hsph.harvard.edu  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/_NatRSmith
@@ -62,6 +62,5 @@ user_groups:
 
 ---
 
-Natalie is a decision scientist who aims to prevent chronic disease through the uptake of evidence-informed programs and policies. To do this, her research program emphasizes applying a variety of decision science methods to implementation and dissemination related questions, including economic evaluation, simulation modeling, and stated preference methods. She is currently an NCI-funded T32 postdoctoral research fellow at the Harvard TH Chan School of Public Health. She received her MS in Biostatistics and PhD in Health Policy and Management (decision science concentration) from the University of North Carolina Chapel Hill Gillings School of Global Public Health. 
+Natalie's personal website is [here](https://www.nataliersmith.com/).
 
-Her personal website is [here](https://www.nataliersmith.com/).

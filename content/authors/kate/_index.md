@@ -52,5 +52,3 @@ user_groups:
 - Volunteers
 
 ---
-
-Kate works at the intersection of social epidemiology and health equity with a focus on social and structural determinants of health. Her research focuses on mass incarceration in the United States, perinatal mental health in global settings, and HIV prevention and maternal well-being in North Carolina.

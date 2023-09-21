@@ -55,5 +55,3 @@ user_groups:
 - Volunteers
 
 ---
-
-Denise Mitchell is a PhD student in Sociology at the University of North Carolina at Chapel Hill. She holds a BA in Psychology from UNC-Chapel Hill. Before starting her doctoral work, Denise worked at the American Institutes for Research conducting interviews with consumers and clinicians on topics ranging from comparative effectiveness research to traumatic brain injury, and translating clinical research into plain language for broad audiences. Her current research aims to understand how social structures can “get under the skin” to impact physical health outcomes. Her masters thesis work examines how criminal justice system contact is associated with allostatic load in U.S. adults.

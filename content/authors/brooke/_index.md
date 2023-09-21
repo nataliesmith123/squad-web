@@ -6,7 +6,7 @@ title: Brooke S Staley
 superuser: false
 
 # Role/position
-role: PhD Student in Epidemiology
+role: PhD in Epidemiology
 
 # Organizations/Affiliations
 organizations:
@@ -20,7 +20,7 @@ education:
   courses:
   - course: PhD in Epidemiology
     institution: UNC Chapel Hill
-    year: Current
+    year: 2022
   - course: MPH
     institution: Morehouse School of Medicine
     year: 2016
@@ -58,5 +58,3 @@ user_groups:
 - Volunteers
 
 ---
-
-Brooke S. Staley is currently a Ph.D. student in Epidemiology at the University of North Carolina – Chapel Hill. Broadly, Brooke is interested in amplifying the voices of marginalized individuals from underserved and historically underrepresented populations in health research within and beyond the academy. More specifically, her research interests include understanding health disparities to promote health equity through biosocial processes, intergenerational health, and life course frameworks. She explores the intersections between social, mental health, and genetic epidemiology through her research focused on childhood adversity on mental health across the life course, social determinants of mental health disparities, and social and genetic interactions on race and gender differences in health outcomes. Currently supported by the Genetic Epidemiology T32 Training Program, her dissertation research is exploring a social metabolomic approach to improve understanding of disparities in Type 2 Diabetes.

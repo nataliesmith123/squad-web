@@ -16,7 +16,7 @@ Learning Objectives:
 4. Thoughtfully critique and provide feedback on conceptualization, measurement, analysis, and interpretation for race and ethnicity in the peer review process.
 
 ### Past workshops
-+ GSK (GlaxoSmithKline). November 2023.
++ GSK (GlaxoSmithKline), virtual, November 2023.
 + North Carolina Translational and Clinical Sciences Institute, virtual, March 2023.
 + UNC Center for Pharmacoepidemiology, virtual, January 2023. 
 + IAPHS Preconference Workshop for the 8th annual meeting, virtual, November 2022. 

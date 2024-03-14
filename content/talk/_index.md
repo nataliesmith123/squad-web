@@ -4,9 +4,6 @@ lastmod: ""
 
 Check out Episode 6 of the IAPHS podcast Sick Individuals, Sick Populations [here](https://podcasts.apple.com/us/podcast/6-measurement-conceptualization-in-population-health/id1537168421?i=1000501965408)! Rae Anne, Nafeesa, and Andi discuss the project, findings, and big picture implications with host Mike Esposito.
 
-Esposito, M. (Host). (2020, December 14). Measurement and Conceptualization in Population Health Science: New Directions in Understanding Inequality (No. 6) [Audio podcast episode]. In Sick Individuals, Sick Populations. IAPHS. https://podcasts.apple.com/us/podcast/6-measurement-conceptualization-in-population-health/id1537168421?i=1000501965408
-
-
 ### We've presented our work at a wide variety of conferences and invited talks
 + Martinez, R.A. Extant race and ethnicity communication guidelines in health research. Public Session on the Use of Race and Ethnicity in Biomedical Research, Committee on the Use of Race and Ethnicity in Biomedical Research  for the National Academies of Sciences Engineering Medicine. December 14th, 2023. Recorded webcast of this event [here](https://www.nationalacademies.org/event/41349_12-2023_the-use-of-race-and-ethnicity-in-biomedical-research---meeting-2)
 + Martinez, R.A. & Wilbur, R.E. Communicating race and ethnicity in U.S. population health research. IMPACT Group. June 8th, 2023

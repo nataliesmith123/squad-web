@@ -8,7 +8,10 @@ Esposito, M. (Host). (2020, December 14). Measurement and Conceptualization in P
 
 
 ### We've presented our work at a wide variety of conferences and invited talks
++ Martinez, R.A. Extant race and ethnicity communication guidelines in health research. Public Session on the Use of Race and Ethnicity in Biomedical Research, Committee on the Use of Race and Ethnicity in Biomedical Research  for the National Academies of Sciences Engineering Medicine. December 14th, 2023. Recorded webcast of this event [here](https://www.nationalacademies.org/event/41349_12-2023_the-use-of-race-and-ethnicity-in-biomedical-research---meeting-2)
++ Martinez, R.A. & Wilbur, R.E. Communicating race and ethnicity in U.S. population health research. IMPACT Group. June 8th, 2023
 + Rae Anne Martinez (moderator) and Nafeesa Andrabi (speaker). Language and Rigor: A conversation on the role of language in epidemiology. SER Experts Panel. April 23, 2023. *Members of the Society for Epidemiologic Research will be able to access a recording of the panel via the SER library.*
++ Martinez, R.A. & Goodwin, A.N. Conceptualization & operationalization of race in epidemiology. Global Epidemiology Lunch ‘n’ Learn series, AbbVie. April 11th, 2023.
 + Martinez, R.A., Andrabi, N., Goodwin, A.N., Wilbur, R.E., Smith, N.R., Zivich, P.N. A cross-disciplinary, systematic review of race and ethnicity in U.S. population health research. FMSC 6060: Ethnic Families and Health Disparities. Department of Family Science, University of Maryland. October 7th, 2021.
 + Martinez, R.A., Andrabi, N., Goodwin, A.N., Wilbur, R.E., Smith, N.R., Zivich, P.N. Lessons from interdisciplinary research. SOCI 823: Integrating Social and Biological Perspectives on Human Health. Department of Sociology, UNC Chapel Hill. September 28th, 2021.
 + Martinez, R.A., Andrabi, N., Goodwin, A.N., Wilbur, R.E., Smith, N.R., Zivich, P.N. A systematic review of the use of race and ethnicity in U.S. medical and epidemiologic research. SER 53rd Annual Meeting. Virtual Event due to COVID-19. December 2020. 

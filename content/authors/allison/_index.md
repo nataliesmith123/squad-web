@@ -10,7 +10,7 @@ role: Professor of Epidemiology
 
 # Organizations/Affiliations
 organizations:
-- name: UNC Chapel Hill
+- name: Columbia University
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -58,4 +58,4 @@ user_groups:
 
 ---
 
-Allison Aiello is a Professor of Sociology and a Carolina Population Center fellow. Dr. Aiello's research seeks to integrate social and biological data across the life course, including epigenetic approaches, to identify the key triggers of population variation in susceptibility to dementia, poor mental health, cardiometabolic, and immune/infectious disease outcomes. Her overall research goal is to elucidate whether stress-related biological imprinting, through immune and epigenetic mechanisms, explain how health inequities from these conditions arise and produce disease risk across the life span. Read more [here](https://www.cpc.unc.edu/people/fellows/allison-aiello/).
+Dr. Allison Aiello is the James S. Jackson Healthy Longevity Professor of Epidemiology (in the Robert N. Butler Columbia Aging Center). Dr. Aiello is a leading expert in aging and infectious diseases. Her research focuses on identifying the processes by which health inequities in aging emerge across the life course, with the goal of uncovering points of intervention.. Read more [here](https://www.publichealth.columbia.edu/profile/allison-aiello-phd).

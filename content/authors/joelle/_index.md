@@ -6,7 +6,7 @@ title: Joëlle Atere-Roberts
 superuser: false
 
 # Role/position
-role: PhD Student in Epidemiology
+role: Health Equity Researcher
 
 # Organizations/Affiliations
 organizations:
@@ -18,9 +18,9 @@ organizations:
 
 education:
   courses:
-  - course: PhD Candidate in Epidemiology
+  - course: PhD in Epidemiology
     institution: UNC Chapel Hill
-    year: Current
+    year: 2023
   - course: MPH in Epidemiology
     institution: Georgia State University
     year: 2014
